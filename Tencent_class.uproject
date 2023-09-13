@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{663C140B-4A5D-9FE9-BA48-F4944FEB67DB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tencent_class",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
